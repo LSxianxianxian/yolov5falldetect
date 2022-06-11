@@ -12,3 +12,7 @@
 找到models文件夹下的yolov5l.yaml文件，修改yolov5l.yaml中的类别数
 
 找到train.py文件，在train.py文件中三个路径
+
+
+训练模型：链接：https://pan.baidu.com/s/1ll6TEXdREWCHO5Fmuh0T8w 
+提取码：2ku0 
